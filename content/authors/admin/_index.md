@@ -22,13 +22,14 @@ role: Postdoctoral Researcher
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Washington
-    url: https://www.bingbrunton.com/
+    url: https://www.biology.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include computational and theoretical models of sensorimotor representations.
 
 # Interests to show in About widget
 interests:
+  - Sensorimotor Representations
   - Natrual Behavior
   - Deep Learning
   - Reinforcement Learning
@@ -50,15 +51,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Deep Learning
         description: ''
-        percent: 100
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: Mujoco
         description: ''
         percent: 40
         icon: database
