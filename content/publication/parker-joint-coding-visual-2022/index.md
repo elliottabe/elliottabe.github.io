@@ -6,6 +6,9 @@ authors:
 - Emmalyn S. P. Leonard
 - Dylan M. Martins
 - Cristopher M. Niell
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2022-01-01'
 publishDate: '2024-02-01T04:01:15.555056Z'
 publication_types:

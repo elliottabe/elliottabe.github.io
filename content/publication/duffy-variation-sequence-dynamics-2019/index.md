@@ -6,6 +6,9 @@ authors:
 - Elliott Abe
 - David J. Perkel
 - Adrienne L. Fairhall
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: '2019-05-01'
 publishDate: '2024-02-01T04:01:15.482940Z'
 publication_types:
