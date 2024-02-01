@@ -59,7 +59,7 @@ skills:
         percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: Mujoco
+      - name: Reinforcement Learning
         description: ''
         percent: 40
         icon: database
