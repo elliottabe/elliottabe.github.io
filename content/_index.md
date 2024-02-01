@@ -90,33 +90,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          date_start: '2022-03-22'
+          description: 'Selected Talk at COSYNE 2022'
+          icon: youtube
+          organization: COSYNE
+          organization_url: https://www.cosyne.org/
+          title: Joint coding of visual input and eye/head position in V1 of freely moving mice
+          url: 'https://youtu.be/auVifWwQaG8?t=9167'
     design:
       columns: '2'
   - block: collection
@@ -232,8 +214,8 @@ sections:
       email: eabe@uw.edu
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '47.6061'
-        longitude: '122.3328'  
+        latitude: '47.65211'
+        longitude: '-122.30970'  
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
