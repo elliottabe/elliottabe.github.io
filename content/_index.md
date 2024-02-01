@@ -65,7 +65,7 @@ sections:
         - title: Postdoctoral Researcher
           company: University of Washington
           company_url: ''
-          company_logo: UW.eps
+          company_logo: UW
           location: Washington
           date_start: '2023-04-16'
           date_end: ''
