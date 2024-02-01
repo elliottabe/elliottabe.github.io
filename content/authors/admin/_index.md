@@ -3,15 +3,15 @@
 title: Elliott T. T. Abe
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Elliott
 last_name: Abe
 
 # Status emoji
-# status:
-#   icon: ☕️
+status:
+  icon: 🧠
 
 # Is this the primary user of the site?
 superuser: true
