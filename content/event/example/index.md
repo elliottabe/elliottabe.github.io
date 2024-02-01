@@ -2,7 +2,7 @@
 title: Joint coding of visual input and eye/head position in V1 of freely moving mice
 
 event: Computational and Systems Neuroscience (COSYNE) Conference
-event_url: 'https://youtu.be/auVifWwQaG8?t=9167'
+event_url: 'https://www.cosyne.org/'
 
 location: Lisbon, Portugal
 
@@ -21,15 +21,11 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: true
 
-# image:
-#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-#   focal_point: Right
+image: []
+  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  # focal_point: Right
 
-links: ''
-  # - icon: twitter
-  #   icon_pack: fab
-  #   name: Follow
-  #   url: https://twitter.com/georgecushen
+links: []
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -40,7 +36,7 @@ url_video: 'https://youtu.be/auVifWwQaG8?t=9167'
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -48,7 +44,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - example
+  - []
 ---
 
 {{% callout note %}}
