@@ -42,7 +42,7 @@ education:
       year: 2023
     - course: BSc in Physics
       institution: University of Washington
-      year: 2009
+      year: 2016
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,8 +70,13 @@ skills:
     items:
       - name: Snowboarding
         description: ''
-        percent: 80
+        percent: 95
         icon: person-snowboarding
+        icon_pack: fas
+      - name: Climbing
+        description: ''
+        percent: 80
+        icon: person-climbing
         icon_pack: fas
       # - name: Cats
       #   description: ''
@@ -118,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Elliott Abe is a postdoctoral researcher of computational and theoretical neuroscience at the University of Washignton. His research interests include ...
+I am postdoctoral researcher of computational and theoretical neuroscience at the University of Washignton. My research interests include ...
 {style="text-align: justify;"}
