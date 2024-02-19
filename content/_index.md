@@ -136,6 +136,7 @@ sections:
       filters:
         folders:
           - project
+        exclude_tags: ['incomplete']
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -143,20 +144,19 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: 'TiDHy: Timescale Demixing via Hypernetworks'
-          tag: 'Timeseries Analysis'
-        - name: Biomechanical modeling of agile sensorimotor control
-          tag: 'incomplete'
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: 'TiDHy: Timescale Demixing via Hypernetworks'
+      #     tag: 'Timeseries Analysis'
+      #   - name: Biomechanical modeling of agile sensorimotor control
+      #     tag: 'incomplete'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-    exclude_tags: ['incomplete']
   # - block: markdown
   #   content:
   #     title: Gallery
