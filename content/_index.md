@@ -147,7 +147,7 @@ sections:
         - name: All
           tag: '*'
         - name: Biomechanical modeling of agile sensorimotor control
-          tag: Deep Learning, Reinforcement Learning
+          tag: Deep Learning
         - name: TiDHy: Timescale Demixing via Hypernetworks 
           tag: Timeseries Analysis
     design:
