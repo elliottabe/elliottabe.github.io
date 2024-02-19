@@ -73,11 +73,12 @@ skills:
         percent: 95
         icon: person-snowboarding
         icon_pack: fas
-      - name: Climbing
+      - name: Cooking
         description: ''
-        percent: 80
-        icon: person-climbing
+        percent: 75
+        icon: pot-food
         icon_pack: fas
+
       # - name: Cats
       #   description: ''
       #   percent: 100
@@ -110,7 +111,7 @@ social:
     icon_pack: fab
     link: https://github.com/elliottabe
   - icon: orcid
-    icon_pack: brands
+    icon_pack: academicons
     link: https://orcid.org/my-orcid?orcid=0000-0002-5305-2467
   # - icon: linkedin
   #   icon_pack: fab

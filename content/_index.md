@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: 'Elliott T. T. Abe'
-date: 2022-10-24
+date: 2022-02-18
 type: landing
 
 sections:
@@ -71,10 +71,11 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Work with experimental collaborators on analyzing data. 
+              * Draft, submit, and revise papers for publication. 
+              * Attend lab meetings, relevant seminars, and meetings with the PI. 
+              * Attend and present research at conferences. 
+              * Participate in mentoring graduate, undergraduate, and high school students in the lab.
     design:
       columns: '2'
   # - block: accomplishments
