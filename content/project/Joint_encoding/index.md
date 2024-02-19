@@ -1,6 +1,6 @@
 ---
 title: "Joint Coding of Visual Input and Eye/Head Position in V1 of Freely Moving Mice"
-summary: A key feature of TiDHy is that it directly learns the intrinsic timescales of the data (rather than as a hyperparameter) and demixes independent systems, yielding interpretable dynamics. Using synthetic data, we show that TiDHy can demix multiple SLDSs from partially superimposed observations, even when they span orders-of-magnitude different timescales.
+summary: In this project, we (1) developed a method for freely moving visual physiology, (2) measured the first freely-moving visual receptive fields, (3) found V1 neurons are tuned to eye position and head orientation, and (4) showed visual input and eye/head position predominately integrate through multiplicative gain modulation 
 tags:
   - Visual encoding
   - Gain modulation
@@ -17,7 +17,8 @@ image:
 links:
   - icon: github
     icon_pack: fab
-    name: TiDHy
+    name: pytorchGLM
+    url: https://github.com/elliottabe/pytorchGLM
 url_code: ''
 url_pdf: ''
 url_slides: ''
