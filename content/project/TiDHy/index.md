@@ -1,6 +1,6 @@
 ---
 title: "TiDHy: Timescale Demixing via Hypernetworks"
-summary: 
+summary: A key feature of TiDHy is that it directly learns the intrinsic timescales of the data (rather than as a hyperparameter) and demixes independent systems, yielding interpretable dynamics. Using synthetic data, we show that TiDHy can demix multiple SLDSs from partially superimposed observations, even when they span orders-of-magnitude different timescales.
 tags:
   - Deep Learning
 date: "2024-02-18T00:00:00Z"
