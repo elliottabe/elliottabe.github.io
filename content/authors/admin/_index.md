@@ -25,7 +25,7 @@ organizations:
     url: https://www.biology.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include computational and theoretical models of sensorimotor representations.
+bio: I am postdoctoral researcher in is a computational and theoretical neuroscientist at the University of Washington. My research focuses on the brain’s ability to process diverse types of information, as well as extract and utilize representations to guide behavior.
 
 # Interests to show in About widget
 interests:
