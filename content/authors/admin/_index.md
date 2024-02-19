@@ -109,9 +109,12 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/elliottabe
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - icon: orcid
+    icon_pack: brands
+    link: https://orcid.org/my-orcid?orcid=0000-0002-5305-2467
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -123,5 +126,5 @@ social:
 highlight_name: true
 ---
 
-I am postdoctoral researcher of computational and theoretical neuroscience at the University of Washignton. My research interests include ...
+ I am postdoctoral researcher in is a computational and theoretical neuroscientist at the University of Washington. My research focuses on the brain’s ability to process diverse types of information, as well as extract and utilize representations to guide behavior. I hope to establish general principles that can be applied across different contexts, drawing on insights and techniques from a range of disciplines including neuroscience, machine learning, and physics. By integrating knowledge and tools from these fields, I seeks to develop biologically grounded theories, models, and data analysis methods that can deepen our understanding of neural representations underlying natural behaviors.
 {style="text-align: justify;"}
