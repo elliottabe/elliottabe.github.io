@@ -135,7 +135,8 @@ sections:
       title: Projects
       filters:
         folders:
-          - project/exteral-project
+          - project
+            - external-project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -148,14 +149,15 @@ sections:
           tag: '*'
         - name: 'TiDHy: Timescale Demixing via Hypernetworks '
           tag: 'Timeseries Analysis'
-        # - name: Biomechanical modeling of agile sensorimotor control
-        #   tag: 'Deep Learning'
+        - name: Biomechanical modeling of agile sensorimotor control
+          tag: 'incomplete'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+    exclude_tags: ['incomplete']
   # - block: markdown
   #   content:
   #     title: Gallery

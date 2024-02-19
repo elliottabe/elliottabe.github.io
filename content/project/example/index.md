@@ -2,8 +2,9 @@
 title: Biomechanical modeling of agile sensorimotor control
 summary: This project focuses on creating models of sensorimotor control accounting for biomechanical and neurobiological constraints. 
 tags:
-  - Deep Learning
-  - Reinforcement Learning
+  - incomplete
+  # - Deep Learning
+  # - Reinforcement Learning
 date: '2024-02-18T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
