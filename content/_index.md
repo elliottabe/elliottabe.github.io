@@ -136,7 +136,6 @@ sections:
       filters:
         folders:
           - project
-            - external-project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
       default_button_index: 0
       # Filter toolbar (optional).
@@ -147,7 +146,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: 'TiDHy: Timescale Demixing via Hypernetworks '
+        - name: 'TiDHy: Timescale Demixing via Hypernetworks'
           tag: 'Timeseries Analysis'
         - name: Biomechanical modeling of agile sensorimotor control
           tag: 'incomplete'
