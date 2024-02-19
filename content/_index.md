@@ -146,10 +146,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Biomechanical modeling of agile sensorimotor control
-          tag: 'Deep Learning'
         - name: 'TiDHy: Timescale Demixing via Hypernetworks '
           tag: 'Timeseries Analysis'
+        # - name: Biomechanical modeling of agile sensorimotor control
+        #   tag: 'Deep Learning'
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
