@@ -58,12 +58,12 @@ skills:
         description: ''
         percent: 80
         icon: circle-nodes
-        icon_pack: fab
+        icon_pack: fas
       - name: Reinforcement Learning
         description: ''
         percent: 50
         icon: circle-nodes
-        icon_pack: fab
+        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
