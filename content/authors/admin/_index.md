@@ -57,13 +57,13 @@ skills:
       - name: Deep Learning
         description: ''
         percent: 80
-        icon: chart-line
-        icon_pack: fas
+        icon: circle-nodes
+        icon_pack: fab
       - name: Reinforcement Learning
         description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
+        percent: 50
+        icon: circle-nodes
+        icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -111,7 +111,7 @@ social:
     icon_pack: fab
     link: https://github.com/elliottabe
   - icon: orcid
-    icon_pack: academicons
+    icon_pack: ai
     link: https://orcid.org/my-orcid?orcid=0000-0002-5305-2467
   # - icon: linkedin
   #   icon_pack: fab
