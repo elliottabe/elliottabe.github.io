@@ -112,7 +112,7 @@ social:
     link: https://github.com/elliottabe
   - icon: orcid
     icon_pack: ai
-    link: https://orcid.org/my-orcid?orcid=0000-0002-5305-2467
+    link: https://orcid.org/0000-0002-5305-2467
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/
