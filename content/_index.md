@@ -70,30 +70,33 @@ sections:
               * Participate in mentoring graduate, undergraduate, and high school students in the lab.
     design:
       columns: '2'
-  # - block: accomplishments
-  #   content:
-  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-  #     title: 'Accomplish&shy;ments'
-  #     subtitle:
-  #     # Date format: https://docs.hugoblox.com/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Accomplishments.
-  #     #   Add/remove as many `item` blocks below as you like.
-  #     #   `title`, `organization`, and `date_start` are the required parameters.
-  #     #   Leave other parameters empty if not required.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - certificate_url: ''
-  #         date_end: ''
-  #         date_start: '2022-03-22'
-  #         description: 'Selected Talk at COSYNE 2022'
-  #         icon: youtube
-  #         organization: COSYNE
-  #         organization_url: https://www.cosyne.org/
-  #         title: Joint coding of visual input and eye/head position in V1 of freely moving mice
-  #         url: 'https://youtu.be/auVifWwQaG8?t=9167'
-  #   design:
-  #     columns: '2'
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2024-01-16'
+          description: ''
+          icon: ''
+          organization: Swartz Foundation
+          organization_url: 
+          title: Swartz Postdoctoral Fellowship
+          url: https://compneuro.washington.edu/people/swartz-postdoctoral-fellows/
+        - date_start: '2023-04-01'
+          organization: eScience Institute, University of Washington
+          title: eScience Data Science Postdoctoral Fellowship
+    design:
+      columns: '2'
   # - block: collection
   #   id: posts
   #   content:

@@ -11,6 +11,10 @@ authors:
 - Jacob L. Yates
 - Jude F. Mitchell
 - Cristopher M. Niell
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 date: '2023-12-01'
 publishDate: '2024-02-01T04:01:15.541671Z'
 publication_types:
