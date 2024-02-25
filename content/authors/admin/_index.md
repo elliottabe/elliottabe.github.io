@@ -75,8 +75,8 @@ skills:
         icon_pack: fas
       - name: Cooking
         description: ''
-        percent: 75
-        icon: pot-food
+        percent: 65
+        icon: utensils
         icon_pack: fas
 
       # - name: Cats
@@ -127,8 +127,22 @@ social:
 highlight_name: true
 ---
 
- I am Swartz postdoctoral fellow in computational and theoretical neuroscience at the University of Washington, under the mentorship of [Professor Bing Brunton](https://www.bingbrunton.com/). My research focuses on the brain’s ability to process diverse types of information, as well as extract and utilize representations to guide behavior. I hope to establish general principles that can be applied across different contexts, drawing on insights and techniques from a range of disciplines including neuroscience, machine learning, and physics. By integrating knowledge and tools from these fields, I seek to develop biologically grounded theories, models, and data analysis methods that can deepen our understanding of neural representations underlying natural behaviors. 
+ I am **Swartz postdoctoral fellow** in computational and theoretical neuroscience at the University of Washington, under the mentorship of [Professor Bing Brunton](https://www.bingbrunton.com/). My research focuses on the brain’s ability to process diverse types of information, as well as extract and utilize representations to guide behavior. I hope to establish general principles that can be applied across different contexts, drawing on insights and techniques from a range of disciplines including neuroscience, machine learning, and physics. By integrating knowledge and tools from these fields, I seek to develop biologically grounded theories, models, and data analysis methods that can deepen our understanding of neural representations underlying natural behaviors. 
 
 Research Interests: 
+I am broadly interested in how sensorimotor representations about our environment are formed and utilized for behavior. Specifically, my research seeks to understand:
+  - The computational principles underlying the encoding of sensory representations.
+  - How sensory representations interact with motor control to inform behavior.
+  - The mechanisms by which the motor system is used to gather new sensory information in closed-loops. 
+
+I use a variety of methods and quantitative approaches including – deep learning, reinforcement learning, biomechanical physics simulations, dynamical systems, state-space modeling, and control theory. 
+
+Current work: 
+I am currently a postdoctoral research fellow under the mentorship of Professor Bing Brunton at the University of Washington (UW), Seattle. In 2024, I was awarded the Swartz Foundation Postdoctoral Fellowship through the Computational Neuroscience Center at UW. My current projects are:
+-	A new data analysis method for learning how linear combinations of latent dynamics may evolve, even when they span numerous timescales simultaneously. 
+-	Using biomechanical models in Mujoco (physics simulator) to develop a model of agile and robust locomotion, while accounting for biomechanical and neurobiological constraints.
+
+Previously: 
+I obtained my Ph.D. at the University of Oregon, under the mentorship of Professor Cris Niell and Professor James Murray. The bulk of my research there focused on the computational and theoretical models of visual processing of during natural behaviors. Prior to entering graduate school, I was an obtained my BSc in Physics at the University of Washington, Seattle. As an undergraduate researcher I was mentored by Professor Adrienne Fairhall and Professor David Perkel, where my research focused on the robustness of song learning in zebra finches.
 
 {style="text-align: justify;"}
