@@ -8,7 +8,7 @@ location: Lisbon, Portugal
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-22'
+date: '2022-03-22T15:00:00Z'
 # date_end: '2022-04-03T15:00:00Z'
 all_day: false
 
