@@ -23,14 +23,16 @@ role: Postdoctoral Researcher
 organizations:
   - name: University of Washington
     url: https://www.biology.washington.edu/
+  - name: eScience Institute
+    url: https://escience.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am postdoctoral researcher in computational and theoretical neuroscientist at the University of Washington. My research focuses on the brain’s ability to process diverse types of information, as well as extract and utilize representations to guide behavior.
+bio: I am a Swartz Theory Center Postdoctoral Fellow in computational and theoretical neuroscience at the University of Washington. My research focuses on the brain’s ability to process diverse types of information, as well as extract and utilize representations to guide behavior.
 
 # Interests to show in About widget
 interests:
   - Sensorimotor Representations
-  - Natrual Behavior
+  - Natural Behavior
   - Deep Learning
   - Reinforcement Learning
 
@@ -127,7 +129,7 @@ social:
 highlight_name: true
 ---
 
-I am ***Swartz postdoctoral fellow*** in computational and theoretical neuroscience at the University of Washington, under the mentorship of [Professor Bing Brunton](https://www.bingbrunton.com/). My research focuses on the brain’s ability to process diverse types of information, as well as extract and utilize *representations to guide behavior*. I hope to establish general principles that can be applied across different contexts, drawing on insights and techniques from a range of disciplines including neuroscience, machine learning, and physics. By integrating knowledge and tools from these fields, I seek to develop *biologically grounded theories, models, and data analysis methods* that can deepen our understanding of neural representations underlying natural behaviors. 
+I am a ***Swartz Theory Center Postdoctoral Fellow*** in computational and theoretical neuroscience at the University of Washington, under the mentorship of [Professor Bing Brunton](https://www.bingbrunton.com/). I am also a **Data Science Postdoctoral Fellow** at the [eScience Institute](https://escience.washington.edu/). My research focuses on the brain’s ability to process diverse types of information, as well as extract and utilize *representations to guide behavior*. I hope to establish general principles that can be applied across different contexts, drawing on insights and techniques from a range of disciplines including neuroscience, machine learning, and physics. By integrating knowledge and tools from these fields, I seek to develop *biologically grounded theories, models, and data analysis methods* that can deepen our understanding of neural representations underlying natural behaviors. 
 
 **Research Interests:**\
 I am broadly interested in how *sensorimotor representations* about our environment are formed and utilized for behavior. Specifically, my research seeks to understand:
@@ -138,11 +140,12 @@ I am broadly interested in how *sensorimotor representations* about our environm
 I use a variety of methods and quantitative approaches including – deep learning, reinforcement learning, biomechanical physics simulations, dynamical systems, state-space modeling, and control theory. 
 
 **Current work:** \
-I am currently a postdoctoral research fellow under the mentorship of [Professor Bing Brunton](https://www.bingbrunton.com/) at the University of Washington (UW), Seattle. In 2024, I was awarded the Swartz Foundation Postdoctoral Fellowship through the Computational Neuroscience Center at UW. My current projects are:
--	Development of a new data analysis method for learning how linear combinations of latent dynamics may evolve, even when they span numerous timescales simultaneously. 
--	Using biomechanical models in Mujoco (physics simulator) to develop models of agile and robust motor control, while accounting for biomechanical and neurobiological constraints (eg. time delays).
+I am currently a postdoctoral research fellow under the mentorship of [Professor Bing Brunton](https://www.bingbrunton.com/) at the University of Washington (UW), Seattle. In 2023, I was awarded the Swartz Foundation Postdoctoral Fellowship through the Computational Neuroscience Center at UW and a Data Science Postdoctoral Fellowship through the eScience Institute. My current projects are:
+-	**TiDHy**: A new data analysis method for learning how linear combinations of latent dynamics may evolve, even when they span numerous timescales simultaneously. TiDHy was accepted at *Royal Society Interface* in 2025.
+-	**Closed-loop connectome–body models**: Using biomechanical models in MuJoCo and deep reinforcement learning to develop closed-loop simulations of the *Drosophila* nervous system and body, probing how neural circuit structure shapes motor control.
+-	**Neuromechanical emulation**: Collaborating on MIMIC-MJX, a framework for neuromechanical emulation of animal behavior using physics-based simulation.
 
 **Previously:** \
-I obtained my Ph.D. at the University of Oregon, under the mentorship of [Professor Cris Niell](https://nielllab.uoregon.edu/) and [Professor James Murray](https://blogs.uoregon.edu/murraylab/). The bulk of my research there focused on the computational and theoretical models of visual processing of during natural behaviors. Prior to entering graduate school, I was an obtained my BSc in Physics at the University of Washington, Seattle. As an undergraduate researcher I was mentored by [Professor Adrienne Fairhall](https://fairhalllab.com/people/) and [Professor David Perkel](https://perkelab.wixsite.com/mysite), where my research focused on the robustness of song learning in zebra finches.
+I obtained my Ph.D. at the University of Oregon, under the mentorship of [Professor Cris Niell](https://nielllab.uoregon.edu/) and [Professor James Murray](https://blogs.uoregon.edu/murraylab/). The bulk of my research there focused on computational and theoretical models of visual processing during natural behaviors. Prior to graduate school, I obtained my BSc in Physics at the University of Washington, Seattle. As an undergraduate researcher I was mentored by [Professor Adrienne Fairhall](https://fairhalllab.com/people/) and [Professor David Perkel](https://perkelab.wixsite.com/mysite), where my research focused on the robustness of song learning in zebra finches.
 
 {style="text-align: justify;"}
