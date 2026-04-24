@@ -74,7 +74,7 @@ Armed with realistic physics models and a clear understanding of what can go wro
 
 The key architectural principles:
 
-- **Connectome-constrained interneurons**: The ventral nerve cord (VNC) connectome from BANC[^8] provides the synaptic connectivity of the interneurons.
+- **Connectome Simulations**: The ventral nerve cord (VNC) connectome from BANC[^8] provides the synaptic connectivity of the interneurons.
 - **Biologically grounded interfaces**: Sensory neurons and motor neurons are identified from the connectome and mapped to specific muscles and sensors. The only learned parameters are scalar gain values between motor neurons and muscles, and sensors and sensory neurons.
 - **Closed-loop feedback**: Proprioceptive signals from the physics simulation feed back into the sensory neurons in real time through neural encoding models of *Drosophila* proprioceptors, completing the neural–body–environment loop.
 
