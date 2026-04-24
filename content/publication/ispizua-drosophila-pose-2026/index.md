@@ -1,18 +1,22 @@
 ---
 title: "3D markerless pose estimation of freely behaving Drosophila"
 authors:
-- Jon Ander Ispizua
-- Elliott T. T. Abe
-- Jiaming Yan
-- Ratan Othayoth
-- Semih Sawtelle
-- Frank Atkins
-- Hiroshi Shizaki
-- Jakob Voigts
-- David Stern
-- Bingni W. Brunton
-- John C. Tuthill
-- Rebecca E. Johnson
+ - Juan Ignacio Ispizua
+ - Elliott T.T. Abe
+ - Jinyao Yan
+ - Ratan Othayoth
+ - Steven Sawtelle
+ - Felisha Atkins
+ - Hiroshi M. Shiozaki
+ - Niko R. Meier
+ - Jovanka Wong
+ - Tiffany Tran
+ - Catherine Mori
+ - Jakob Voigts
+ - David L. Stern
+ - Bingni W. Brunton
+ - John C. Tuthill
+ - Robert Evan Johnson
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
