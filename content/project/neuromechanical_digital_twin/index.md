@@ -17,8 +17,6 @@ links:
     url: https://doi.org/10.48550/arXiv.2511.20532
   - name: Digital Sphinx Preprint
     url: https://doi.org/10.64898/2026.03.20.713233
-  - name: Poster (SVG)
-    url: poster.svg
 
 url_code: ''
 url_pdf: ''
@@ -37,8 +35,6 @@ The project unfolded in three stages.
 ## Stage 1 — Deep RL for Behavioral Mimicking
 
 The starting point was a simple question: *what does it take to move like a fly?* Using deep reinforcement learning (DRL) and the MIMIC-MJX platform[^1] (Zhang, Yang, Sirbu, Abe et al., 2025), we train motor policies to imitate naturalistic fly kinematics captured via markerless pose estimation. The policy uses a variational encoder-decoder architecture[^2] to reproduce joint trajectories, leg coordination, and timing in a MuJoCo/JAX physics simulator — purely from behavioral data, with no explicit neural model.
-
-{{< video src="Neuromech01.mp4" controls="yes" >}}
 
 This behavioral mimicking stage serves two purposes. First, it produces a physically grounded virtual animal whose body can be probed and perturbed in ways that complement in vivo experiments. Second, it forced us to confront the limitations of existing physics models — leading to the custom components below.
 
@@ -79,6 +75,8 @@ The key architectural principles:
 - **Closed-loop feedback**: Proprioceptive signals from the physics simulation feed back into the sensory neurons in real time through neural encoding models of *Drosophila* proprioceptors, completing the neural–body–environment loop.
 
 This design enables **circuit perturbation studies** — silencing neurons, severing connections, swapping descending commands — and directly generates testable predictions for in vivo experiments.
+
+{{< video src="Neuromech01.mp4" controls="yes" >}}
 
 **Key questions:**
 - How does the wiring architecture of the VNC give rise to the coordination patterns of walking?
