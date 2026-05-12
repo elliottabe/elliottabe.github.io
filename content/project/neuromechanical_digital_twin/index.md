@@ -17,6 +17,8 @@ links:
     url: https://doi.org/10.48550/arXiv.2511.20532
   - name: Digital Sphinx Preprint
     url: https://doi.org/10.64898/2026.03.20.713233
+  - name: 3D Kinematics Preprint
+    url: https://doi.org/10.64898/2026.05.03.722293
 
 url_code: ''
 url_pdf: ''
@@ -34,7 +36,7 @@ The project unfolded in three stages.
 
 ## Stage 1 — Deep RL for Behavioral Mimicking
 
-The starting point was a simple question: *what does it take to move like a fly?* Using deep reinforcement learning (DRL) and the MIMIC-MJX platform[^1] (Zhang, Yang, Sirbu, Abe et al., 2025), we train motor policies to imitate naturalistic fly kinematics captured via markerless pose estimation. The policy uses a variational encoder-decoder architecture[^2] to reproduce joint trajectories, leg coordination, and timing in a MuJoCo/JAX physics simulator — purely from behavioral data, with no explicit neural model.
+The starting point was a simple question: *what does it take to move like a fly?* Using deep reinforcement learning (DRL) and the MIMIC-MJX platform[^1] (Zhang, Yang, Sirbu, Abe et al., 2025), we train motor policies to imitate naturalistic fly kinematics captured via our [whole-body 3D pose estimation pipeline](../fly_3d_kinematics/)[^9] (Ispizua\*, Abe\* et al., 2026). The policy uses a variational encoder-decoder architecture[^2] to reproduce joint trajectories, leg coordination, and timing in a MuJoCo/JAX physics simulator — purely from behavioral data, with no explicit neural model.
 
 This behavioral mimicking stage serves two purposes. First, it produces a physically grounded virtual animal whose body can be probed and perturbed in ways that complement in vivo experiments. Second, it forced us to confront the limitations of existing physics models — leading to the custom components below.
 
@@ -103,3 +105,5 @@ This work represents a paradigm shift: from correlational observation of neurons
 [^7]: Vaxenberg R, Siwanowicz I, Merel J, et al. (2025). Whole-body physics simulation of fruit fly locomotion. *Nature*. https://doi.org/10.1038/s41586-025-08677-6
 
 [^8]: Bates AS, Phelps JS, Kim M, Yang HH, Matsliah A, Ajabi Z, Perlman E, Delgado KM, Osman MAM, Salmon CK, Gager J, Silverman B, Renauld S, Salman F, Patel J, Collie MF, Fan J, Pacheco DA, Zhao Y, Zhang W, Serratosa Capdevila L, Roberts RJV, Munnelly EJ, Griggs N, Langley H, Moya-Llamas B, Zhang Z, Maloney RT, Yu S, Sterling AR, Sorek M, Kruk K, Serafetinidis N, Dhawan S, Klemm F, Brooks P, Lesser E, Jones JM, Pierce-Lundgren SE, Lee S, Luo Y, Cook AP, McKim TH, Giakoumas DS, Gorko B, Kophs EC, Falt T, Negron-Morales AM, Burke A, Hebditch J, Willie KP, Willie R, Popovych S, Kemnitz N, Ih D, Lee K, Lu R, Halageri A, Bae JA, Jourdan B, Schwartzman G, Demarest DD, Behnke E, Bland D, Kristiansen A, Skelton J, Stocks T, Garner D, Hernandez A, Kumar S, The BANC-FlyWire Consortium, Daly KC, Dorkenwald S, Collman F, Suver MP, Fenk LM, Pankratz MJ, Yao Z, Huston SJ, Stürner T, Jefferis GSXE, Eichler K, Seeds AM, Hampel S, Agrawal S, Okubo TS, Zandawala M, Macrina T, Adjavon DY, Funke J, Tuthill JC, Azevedo A, Seung HS, de Bivort BL, Murthy M, Drugowitsch J, Wilson RI, Lee WCA. (2026). Distributed control circuits across a brain-and-cord connectome. *bioRxiv* 2025.07.31.667571. https://doi.org/10.1101/2025.07.31.667571
+
+[^9]: Ispizua JI\*, Abe ETT\*, Yan J, Othayoth R, Sawtelle S, Atkins F, Shiozaki HM, Meier NR, Wong J, Tran T, Mori C, Voigts J, Stern DL, Brunton BW, Tuthill JC, Johnson RE. (2026). Whole-body 3D kinematics of freely behaving *Drosophila*. *bioRxiv*. https://doi.org/10.64898/2026.05.03.722293
